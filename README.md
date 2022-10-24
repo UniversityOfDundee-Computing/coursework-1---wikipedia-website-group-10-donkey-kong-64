@@ -2,7 +2,11 @@
 You should use this repository for your first group coursework in AC11002 / AC51046
 
 ## Group Members
-Alter this subsection to add in all of your group members
+LUCCA CAMARGO
+SAYED HASHEMI
+JACK MOONIE
+FAAN TSANG
 
 ## Group Website
-Alter this section to contain a link to your groups website working on github pages and also a link to the wikipedia page
+(Website link)
+https://en.wikipedia.org/wiki/Donkey_Kong_64
