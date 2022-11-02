@@ -1,3 +1,7 @@
 a{
     font-family: "Jumpman.ttf";
 }
+.gameplay{
+    background-image :url("bg_img.jpeg");
+    
+}
