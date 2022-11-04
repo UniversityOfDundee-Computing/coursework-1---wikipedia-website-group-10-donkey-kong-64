@@ -5,3 +5,6 @@ a{
     background-image :url("Images/bg_img.jpeg");
     
 }
+p{
+    display: block;
+}
