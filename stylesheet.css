@@ -5,8 +5,8 @@
 }
 p{
     display: block;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
-    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
 @font-face { font-family: Jumpman; src: url('Jumpman.ttf') format('truetype'); } 
         a {
