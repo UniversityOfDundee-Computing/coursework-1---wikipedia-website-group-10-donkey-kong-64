@@ -8,7 +8,7 @@ p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
-@font-face { font-family: Jumpman; src: url('Jumpman.ttf') format('truetype'); } 
-        a {
-           font-family: Jumpman
-        }
+a {
+    font-family: 'Jumpman', sans-serif;
+                                                
+}
