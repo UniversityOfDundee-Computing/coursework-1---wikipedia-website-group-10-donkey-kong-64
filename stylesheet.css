@@ -1,7 +1,14 @@
-a{
-    font-family: "Jumpman.ttf";
-}
-body{
-    background-image :url("bg_img.jpeg");
+
+.body{
+    background-image :url("Images/bg_img.jpeg");
     
+}
+p{
+    display: block;
+    font-family: 'Lemon', cursive;
+
+}
+a {
+    font-family: 'Jumpman', sans-serif;
+                                                
 }
